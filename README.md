@@ -1,20 +1,12 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I made this to learn about rust and make a small project in it to learn how rust works. It is a fibbonaci sequence generator, where you input the limit to the number, and it generates a sequence up to that number for you. You can do this any number of times until you want to exit the program.
 
 [Software Demo Video](https://youtu.be/2sSf874opwk)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used the std.io library, and the Rust programming language book to help me with the setup. The rest was coded in VS code and ran in the windows powershell.
 
 # Useful Websites
 
@@ -24,7 +16,5 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - A thing I could do is have the starting numbers be available to change by the user, to generate different fibbonaci sequences.
